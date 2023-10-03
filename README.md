@@ -1,5 +1,5 @@
 # Hello World for the Web
-This project provides code for for Hello World for the Web and is based on 
+This project provides code for Hello World for the Web and is based on 
 [W3Schools HTML Tutorial](https://www.w3schools.com/html/). 
 
 ## Author
